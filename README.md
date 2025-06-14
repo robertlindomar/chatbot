@@ -1,0 +1,1 @@
+🤖 Bot de Atendimento via WhatsApp (whatsapp-web.js) Projeto simples desenvolvido com foco educacional para praticar conceitos de fluxo de atendimento automatizado, utilizando a biblioteca whatsapp-web.js. O bot simula um menu interativo com múltiplas opções e respostas automáticas, mantendo a sessão do usuário temporariamente.  Tecnologia: Node.js
